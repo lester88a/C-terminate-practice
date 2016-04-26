@@ -16,6 +16,7 @@ namespace ConsoleApplication1
             //display the IP
             Console.WriteLine(GetLocalIPAddress());
 
+
             //kill the process
             try
             {
